@@ -31,7 +31,7 @@ Be cool with Imperative commands and approach. I hope that will help u to create
 
 Useful URL:
 https://github.com/kelseyhightower/kubernetes-the-hard-way
-https://kubernetes.io/docs/reference/kubectl/cheatsheet/?ref=devops-blog
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 
 ### Exam Curriculum
