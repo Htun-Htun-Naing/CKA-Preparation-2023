@@ -3,7 +3,7 @@
 # Journey to the Kubernetes
 ### CKA Preparation Helloasdfaaaaaaaaaaaaaaaaaaaaaaaaa
 
-- Finished the *KodeKloud's* CKA course asdfasdfasdfasdfasdf
+- Finished the *KodeKloud's* CKA course 
 
   > `Please pratice these following labs when u finished the course.`
 
