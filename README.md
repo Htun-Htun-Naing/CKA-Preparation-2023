@@ -1,7 +1,7 @@
 
 
 # Journey to the Kubernetes
-### CKA Preparation v1 v2
+### CKA Preparation 
 
 - Finished the *KodeKloud's* CKA course 
 
